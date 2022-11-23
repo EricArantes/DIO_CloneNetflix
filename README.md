@@ -1,2 +1,4 @@
 # DIO_CloneNetflix
-Projeto de criar um clone da página inicial do Netflix usando HTML, CSS e Javascript
+https://ericarantes.github.io/DIO_CloneNetflix/
+
+Projeto para criar clone da página inicial da Netflix, com o intuito de utilizar a função de carrosel para criar um efeito interessante.
